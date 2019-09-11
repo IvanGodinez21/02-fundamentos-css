@@ -5,11 +5,11 @@ h1 {
 }
 
 h2 {
-    background-color: rgb(50, 100, 70); 
+    background-color: rgb(50, 200, 70); 
 }
 
 p {
-    color: burlywood;
+    color: grey;
 }
 
 p {
@@ -21,7 +21,7 @@ p, li {
 }
 
 .special {
-    color: chocolate;
+    color: orange;
 }
 
 a {
