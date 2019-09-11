@@ -1,0 +1,41 @@
+h1 {
+    color: #31CD32;
+    font-family: 'Muli', sans-serif;
+    text-align: center
+}
+
+h2 {
+    background-color: rgb(50, 100, 70); 
+}
+
+p {
+    color: burlywood;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+}
+
+p, li {
+    font-size: 20px;
+}
+
+.special {
+    color: chocolate;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: greenyellow;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: pink;
+}
