@@ -1,15 +1,22 @@
 h1 {
     color: #31CD32;
     font-family: 'Muli', sans-serif;
-    text-align: center
+    text-align: center;
 }
 
 h2 {
-    background-color: rgb(50, 200, 70); 
-}
+    background-color: rgb(50, 200, 70);
+    text-align: center;
+    height: 50px;
+    border: 5px solid black;
+    padding-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 50px
+}   
 
 p {
     color: grey;
+
 }
 
 p {
